@@ -1,0 +1,12 @@
+email:
+  mailgun:
+    domain: https://api.mailgun.net/v3/sandbox04a1bb7fd8484244bb4dd5be5e78915a.mailgun.org
+    from-email: Inventory App <mailgun@sandbox04a1bb7fd8484244bb4dd5be5e78915a.mailgun.org>
+    username: api
+    password: 804bb2b6a57501efd5591b2658d2d290-5e3f36f5-d2625310
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://hamzabakaran:developer@inventory.tphzztw.mongodb.net/?retryWrites=true&w=majority
+      database: inventory
